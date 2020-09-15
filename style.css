@@ -1,0 +1,53 @@
+.custom-h{
+	font-size: 3vw;
+}
+.bg{
+	background: url("img/Hero-Poster-D.jpg");
+	max-width: 100%;
+	max-height: 50%
+	background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.gluters{
+	margin-left: 0;
+	margin-right: 0;
+}
+.g-text{
+	padding: 4rem;
+}
+.g-img{
+	min-height: 30rem;
+	background-size: cover;
+}
+.jumbo-ins{
+	padding-top: 5%;
+	padding-bottom: 25%;
+}
+.jumbo-ins h1{
+	text-shadow: rgb(21, 21, 21) 0px 0px 2rem;
+}
+.overflow-img{
+	padding-top: 11%;
+}
+.bg-cus{
+	background: #D7ECF7;
+}
+.extra-h{
+	height: 26rem
+}
+.subs-cus h2{
+	padding-top: 15%;
+	padding-bottom: 2%;
+}
+.subs-form{
+	padding-bottom: 15%;
+}
+
+/*Footer Part*/
+.bg-foot-cus{
+	background: #1E306E;
+}
+.bg-footer {
+    background: #526699;
+}
